@@ -1,4 +1,4 @@
--  Hi there, I'm Manan!👋
+Hi there, I'm Manan!👋
 
 Digital Analytics Professional having 3+ years of experience in the field of Analytics and Data Science. Proficient in Machine
 Learning, Buiness Intelligence, Excel, SQL, Python, Data Analysis, Data Visualization. A strong-analytical thinker with the ability to
